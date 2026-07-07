@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Ankit Kumar 👋
 
-<!--
-**xenonankit/xenonankit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Python Developer | Backend Developer
 
-Here are some ideas to get you started:
+I am a Computer Science Engineering graduate passionate about building real-world applications using Python and databases.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- Python
+- SQLite
+- SQL
+- Object-Oriented Programming (OOP)
+- Linux
+- Git & GitHub
+- Data Structures and Algorithms (Basics)
+- DBMS
+- Operating Systems
+
+## 🚀 Projects
+
+### 🚗 Vehicle Registration RTO Management System
+
+- Developed using Python and SQLite
+- Implemented CRUD operations for managing vehicle registration records
+- Designed database operations for storing and retrieving information efficiently
+
+### 📦 Inventory and Billing Management System
+
+- Developed using Python and SQLite
+- Implemented product management features:
+  - Add products
+  - Update quantity
+  - Search products
+  - Delete products
+  - Manage billing records
+
+## 📚 Currently Learning
+
+- Advanced Python
+- Backend Development
+- Linux System Administration
+
+## 📫 Connect With Me
+
+📧 Email: kumarankit5740@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/xenonankit/
